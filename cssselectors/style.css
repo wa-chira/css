@@ -1,0 +1,27 @@
+/* element selector  select all element*/
+body{
+    font-size: 18px;
+}
+p{
+    color: purple;
+
+}
+h1,h2{
+    color: blue;
+}
+p span{
+    text-transform: uppercase;
+    background-color: gold ;
+}
+/* class selector they are specific*/
+.grey{
+    color: gray;
+}
+/* id selector they only exist ones*/
+#second {
+    font-style: italic;
+}
+/* uiversal selector select all the elements*/
+*{
+    font-family: monospace;
+}

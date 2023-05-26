@@ -1,0 +1,24 @@
+/* typogrphy is arranged and presented*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,300&display=swap');
+body{
+    padding: 10%;
+    font-size: 2em;
+    font-family: 'Source Sans Pro', sans-serif;;
+    
+}
+/* input, button{
+    font-size: inherit;
+} */
+
+p{
+    text-decoration: none;
+    text-transform: lowercase;
+    text-align: left;
+    text-indent: 2em;
+    line-height: 1.5;
+    letter-spacing: ;
+    word-spacing: 0.1em;
+    font-weight: lighter;
+    font-style: normal;
+
+} 

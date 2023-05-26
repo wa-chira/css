@@ -1,0 +1,25 @@
+/* typogrphy is arranged and presented*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,300&display=swap');
+body{
+    padding: 10%;
+    font-size: 22px;
+    font-family: 'Source Sans Pro', sans-serif;;
+    
+}
+a{
+    text-decoration: ;
+    cursor: pointer;
+    color: steelblue;
+
+}
+a:visited{
+    color: purple;
+}
+a:hover, a:focus{
+    color: dodgerblue;
+    opacity: 0.9;
+    background: gold;
+}
+a:active{
+    color: brown;
+}
